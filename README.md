@@ -41,15 +41,15 @@ F1 Score: 0.9939 |
 Accuracy: 0.9939 |
 
 ## Key Insights
-CAE outperforms PCA in nonlinear feature extraction
-SMOTE-Tomek outperforms SMOTE and RUS
-Ensemble methods boost robustness and accuracy
+CAE outperforms PCA in nonlinear feature extraction.
+SMOTE-Tomek outperforms SMOTE and RUS.
+Ensemble methods boost robustness and accuracy.
 
 ## Future Work
-Real-Time Fraud Detection: Test model in a streaming environment (e.g., Kafka, Spark)
-Robust Validation: Use repeated stratified K-Fold cross-validation
-Recent Data Testing: Apply on newer datasets (2020+)
+Real-Time Fraud Detection: Test model in a streaming environment (e.g., Kafka, Spark).
+Robust Validation: Use repeated stratified K-Fold cross-validation.
+Recent Data Testing: Apply on newer datasets (2020+).
 
 ## Application Importance
-Prevent billions in fraud-related losses
-Extendable to other imbalanced domains (e.g., healthcare, insurance)
+Prevent billions in fraud-related losses.
+Extendable to other imbalanced domains (e.g., healthcare, insurance).
