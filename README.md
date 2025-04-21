@@ -3,9 +3,7 @@
 This project aims to improve credit card fraud detection by integrating advanced preprocessing techniques and ensemble learning models. Using a combination of data sampling, feature extraction, and hyperparameter optimization, we built a robust classification pipeline capable of identifying fraudulent transactions with near-perfect accuracy.
 
 ## Authors
-Fateenah Farid
-Wahida Natalia
-Group 10
+Fateenah Farid, Wahida Shabuddin (Group 10)
 
 ## Motivation
 Credit card fraud is a growing issue, with global losses projected to surpass $43 billion. Traditional machine learning methods often underperform on highly imbalanced datasets (fraud rate <1%). Our work builds on recent research to improve detection accuracy, address class imbalance, and optimize performance metrics like AUC and AUPRC
