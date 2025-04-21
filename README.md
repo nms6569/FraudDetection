@@ -32,13 +32,13 @@ Additional: Precision, Recall, F1 Score, Accuracy
 ### Final Model
 Best Setup: SMOTE-Tomek ➜ CAE ➜ Ensemble (CatBoost, LightGBM, XGBoost)
 
-### Performance:
-AUPRC: 0.9997
-AUC: 0.9998
-Precision: 0.9946
-Recall: 0.9932
-F1 Score: 0.9939
-Accuracy: 0.9939
+### Performance
+AUPRC: 0.9997 |
+AUC: 0.9998 |
+Precision: 0.9946 |
+Recall: 0.9932 |
+F1 Score: 0.9939 |
+Accuracy: 0.9939 |
 
 ## Key Insights
 CAE outperforms PCA in nonlinear feature extraction
