@@ -9,8 +9,8 @@ Fateenah Farid, Wahida Shabuddin (Group 10)
 Credit card fraud is a growing issue, with global losses projected to surpass $43 billion. Traditional machine learning methods often underperform on highly imbalanced datasets (fraud rate <1%). Our work builds on recent research to improve detection accuracy, address class imbalance, and optimize performance metrics like AUC and AUPRC
 
 ## Dataset
-Source: Kaggle - Credit Card Fraud Detection
-Size: 284,807 transactions
+Source: Kaggle - Credit Card Fraud Detection \n
+* Size: 284,807 transactions
 Features: 30 features (28 PCA-transformed), with one target label (Class)
 Imbalance: Only 0.172% are fraudulent (492 instances)
 
